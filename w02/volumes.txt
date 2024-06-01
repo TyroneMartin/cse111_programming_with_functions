@@ -1,0 +1,8 @@
+
+Generated on: 2024-05-03
+1. Width of the tire
+2. Aspect ratio of the tire
+3. Diameter of the wheel
+4. Volume of the tire
+
+201.0, 40.0, 12.0, 19.56
