@@ -1,0 +1,8 @@
+house
+run
+bird
+random  
+bills
+dogs
+three
+tree
