@@ -10,15 +10,22 @@ CSE 111 Proposal for a Student Chosen Program
     knowledge.)
 
 1. What is the title of your program?
+I will be making a bar chart that collects data from a user and displays the bar chart with 
+labels and titles/columns. As a stretch goal, I will allow the user to select the type of chart
+they want to create, such as a bar chart, pie chart, line graph, etc.
 
 2. What real-world problem will your program address or help to solve?
+Many business want to create a charts to represent data in a concise and presentable way. 
+My program will help business enter raw data and converts it into a chart.
 
 3. What will you learn from developing this program?
+By developing this program, I will learn how to effectively use modules in Python and gain the 
+ability to solve real-world problems.
 
 4. What Python modules will your program use?
 
-    (Some examples are: csv, datetime, functools, matplotlib, math,
-    pandas, pytest, random, requests, and tkinter.)
+Here are some of the module I intend on using in my project:
+pytest, datetime, pyplot, Matplotlib, csv, and math.
 
 5. Will you separate your Python program into functions that each
 perform a single task?
@@ -34,6 +41,10 @@ perform a single task?
     a result. Therefore, you should write most of your program functions
     to have parameters and return a result.)
 
+    Yes, I will use several fuctions within my program.
+
 6. Will you write test functions to test at least two of your program
 functions?
+
+Yes, I will write a test function for at least three test cases.
 
