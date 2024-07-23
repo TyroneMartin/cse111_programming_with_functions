@@ -1,0 +1,25 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+When I first realized the power of functions when I was working on a class assignment,
+this assignment required us to called function in other places in the document or directory.
+Another time that I learned is that we can create nested functions, functions also help to make 
+codes a lot cleaner and more organized and make your code reusable since it can be called several places.
+
+
+2. In your judgment, what is the value of test functions?
+A test function can help ensure your code is working correctly, it is a way to pretest your code
+before it goes out to production or deployment. It is also a good way where you can find bugs and 
+make fixes for these bugs and is best practice to keep your code clean since several tests can be 
+run against the code. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+I had learned the build-in debug method in class for VS studio, however, I personally find that
+making simple logs can be just as fast and help you see the values your code is returning. As I remembered 
+a time when we had to debug one of our group assignments, I did this, and it greatly helped me narrow down 
+the problem. I was able to find the issue and correct it accordingly by checking the log values to ensure 
+they returned the expected results.
